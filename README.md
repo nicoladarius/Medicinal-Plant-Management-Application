@@ -1,11 +1,11 @@
 # Medicinal-Plant-Management-Application
 This application enables efficient management of medicinal plant inventory, providing functionalities such as adding, updating, and removing plants, as well as recording sales. Users can view the available plants, sort them by registration date, and save all changes to a file for persistence.
 Key Features:
-1. Add Plants – Plants are registered with a name, quantity, price, and registration date.
-2. Stock Update – Users can modify a plant's quantity or have it automatically removed when stock reaches zero.
-3. Sort by Date – Plants can be sorted in ascending or descending order based on the registration date.
-4. Data Persistence – All information is stored in a file to remain accessible after restarting the application.
-5. Sales Logging – A sales history is maintained to track sold products.
+1. `Add Plants` – Plants are registered with a name, quantity, price, and registration date.
+2. `Stock Update` – Users can modify a plant's quantity or have it automatically removed when stock reaches zero.
+3. `Sort by Date` – Plants can be sorted in ascending or descending order based on the registration date.
+4. `Data Persistence` – All information is stored in a file to remain accessible after restarting the application.
+5. `Sales Logging` – A sales history is maintained to track sold products.
 
 This application is useful for herbal pharmacies, medicinal plant producers, or anyone looking to efficiently manage their stock of natural products.
 
