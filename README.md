@@ -10,11 +10,11 @@ Key Features:
 This application is useful for herbal pharmacies, medicinal plant producers, or anyone looking to efficiently manage their stock of natural products.
 
 In this project, I utilized a variety of skills, including:
-1. Java Programming
+#### 1. Java Programming
   * Object-oriented programming (OOP) concepts such as encapsulation, constructors, and method overloading.
   * Working with classes, objects, and methods.
 
-2. File Handling
+#### 2. File Handling
   * Reading from and writing to text files using BufferedReader and BufferedWriter.
   * Managing persistent data storage for available and sold plants.
 
