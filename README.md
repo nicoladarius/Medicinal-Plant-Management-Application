@@ -24,7 +24,7 @@ This application is useful for herbal pharmacies, medicinal plant producers, or 
 
 #### 4. Exception Handling
   * Using try-catch blocks to handle errors in file operations and data parsing.
-Throwing and catching IllegalArgumentException for validation.
+  * Throwing and catching IllegalArgumentException for validation.
 
 #### 5. GUI Development with Swing
   * Creating a graphical user interface (GUI) using Java Swing.
