@@ -43,7 +43,26 @@ This application is useful for herbal pharmacies, medicinal plant producers, or 
 
 This project demonstrates my ability to build a Java-based inventory management system with a GUI, file persistence, and sorting features.
 
+## The code and comments were in Romanian
+#### 1. Romanian Keywords in Comments and Labels
+  * The comments and labels in the GUI contain Romanian words
+  * Buttons and labels use Romanian text
 
+#### 2. Romanian Variable and Method Names
+  * Many variables and methods use Romanian words
+  * Romanian function names
+
+#### 3. Romanian Error Messages and Dialogs
+  * Messages displayed in JOptionPane are in Romanian
+
+#### 4. Romanian-Specific Characters (Diacritics)
+  * Romanian text contains ș, ț, ă, î, â
+
+#### 5. Romanian Naming Conventions in Business Logic
+  * The project is about a "Plafar" (Romanian term for a medicinal plant shop).
+  * Romanian-inspired business logic
+
+The combination of Romanian words in comments, method names, UI labels, error messages, and diacritic characters indicates that the original code was written in Romanian.
 
 
 
