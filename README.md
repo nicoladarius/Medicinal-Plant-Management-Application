@@ -11,35 +11,35 @@ This application is useful for herbal pharmacies, medicinal plant producers, or 
 
 In this project, I utilized a variety of skills, including:
 1. Java Programming
-Object-oriented programming (OOP) concepts such as encapsulation, constructors, and method overloading.
-Working with classes, objects, and methods.
+  * Object-oriented programming (OOP) concepts such as encapsulation, constructors, and method overloading.
+  * Working with classes, objects, and methods.
 
 2. File Handling
-Reading from and writing to text files using BufferedReader and BufferedWriter.
-Managing persistent data storage for available and sold plants.
+  * Reading from and writing to text files using BufferedReader and BufferedWriter.
+  * Managing persistent data storage for available and sold plants.
 
 3. Data Structures & Algorithms
-Using lists (ArrayList) to store and manage plants.
-Implementing sorting algorithms (sorting by name, price, quantity, and registration date).
+  * Using lists (ArrayList) to store and manage plants.
+  * Implementing sorting algorithms (sorting by name, price, quantity, and registration date).
 
 4. Exception Handling
-Using try-catch blocks to handle errors in file operations and data parsing.
+  * Using try-catch blocks to handle errors in file operations and data parsing.
 Throwing and catching IllegalArgumentException for validation.
 
 5. GUI Development with Swing
-Creating a graphical user interface (GUI) using Java Swing.
-Designing JFrame, JPanel, JTable, JTextField, JButton, and handling user interactions with ActionListener.
+  * Creating a graphical user interface (GUI) using Java Swing.
+  * Designing JFrame, JPanel, JTable, JTextField, JButton, and handling user interactions with ActionListener.
 
 6. Date and Time Handling
-Using LocalDate to store and manage the registration date of plants.
-Parsing and formatting dates correctly in the repository.
+  * Using LocalDate to store and manage the registration date of plants.
+  * Parsing and formatting dates correctly in the repository.
 
 7. Authentication System
-Implementing a login system (LoginGUI) to restrict access to the main application.
+  * Implementing a login system (LoginGUI) to restrict access to the main application.
 
 8. Debugging and Problem Solving
-Identifying and fixing issues such as method errors, incorrect data parsing, and sorting logic.
-Improving functionality, like removing plants with zero quantity from the list.
+  * Identifying and fixing issues such as method errors, incorrect data parsing, and sorting logic.
+  * Improving functionality, like removing plants with zero quantity from the list.
 
 This project demonstrates my ability to build a Java-based inventory management system with a GUI, file persistence, and sorting features.
 
