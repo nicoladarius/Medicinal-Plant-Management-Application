@@ -7,7 +7,7 @@ Key Features:
 4. Data Persistence – All information is stored in a file to remain accessible after restarting the application.
 5. Sales Logging – A sales history is maintained to track sold products.
 
-This application is useful for herbal pharmacies, medicinal plant producers, or anyone looking to efficiently manage their stock of natural products. 🚀🌿
+This application is useful for herbal pharmacies, medicinal plant producers, or anyone looking to efficiently manage their stock of natural products.
 
 In this project, I utilized a variety of skills, including:
 1. Java Programming
